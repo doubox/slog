@@ -3,8 +3,8 @@ package handler
 import (
 	"io"
 
-	"github.com/gookit/slog"
-	"github.com/gookit/slog/rotatefile"
+	"github.com/dounetio/slog"
+	"github.com/dounetio/slog/rotatefile"
 )
 
 //

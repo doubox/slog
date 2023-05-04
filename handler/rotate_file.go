@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"github.com/gookit/slog"
-	"github.com/gookit/slog/rotatefile"
+	"github.com/dounetio/slog"
+	"github.com/dounetio/slog/rotatefile"
 )
 
 // MustRotateFile handler instance

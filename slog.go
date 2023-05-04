@@ -1,27 +1,3 @@
-/*
-Package slog Lightweight, extensible, configurable logging library written in Go.
-
-Source code and other details for the project are available at GitHub:
-
-	https://github.com/gookit/slog
-
-Quick usage:
-
-	package main
-
-	import (
-		"github.com/gookit/slog"
-	)
-
-	func main() {
-		slog.Info("info log message")
-		slog.Warn("warning log message")
-		slog.Infof("info log %s", "message")
-		slog.Debugf("debug %s", "message")
-	}
-
-More usage please see README.
-*/
 package slog
 
 import (

@@ -10,7 +10,7 @@ package main
 import (
   "log"
 
-  "github.com/gookit/slog/rotatefile"
+  "github.com/dounetio/slog/rotatefile"
 )
 
 func main() {

@@ -3,11 +3,11 @@ package handler
 import (
 	"io"
 
+	"github.com/dounetio/slog"
+	"github.com/dounetio/slog/bufwrite"
+	"github.com/dounetio/slog/rotatefile"
 	"github.com/gookit/goutil/errorx"
 	"github.com/gookit/goutil/fsutil"
-	"github.com/gookit/slog"
-	"github.com/gookit/slog/bufwrite"
-	"github.com/gookit/slog/rotatefile"
 )
 
 // the buff mode consts
