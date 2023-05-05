@@ -24,7 +24,7 @@ func NewConsole(levels []slog.Level) *ConsoleHandler {
 // NewConsoleHandler create new ConsoleHandler
 func NewConsoleHandler(levels []slog.Level) *ConsoleHandler {
 	h := &ConsoleHandler{
-		IOWriterHandler: *NewIOWriterHandler(os.Stdout, levels),
+		IOWriterHandler: *NewIOWriterHandler(os.Stderr, levels),
 	}
 
 	// create new formatter
