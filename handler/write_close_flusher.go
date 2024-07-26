@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"github.com/dounetio/slog"
+	"github.com/doubox/slog"
 )
 
 // FlushCloseHandler definition

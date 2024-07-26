@@ -8,7 +8,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/dounetio/slog"
+	"github.com/doubox/slog"
 	"github.com/gookit/goutil/fsutil"
 )
 

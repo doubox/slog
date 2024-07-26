@@ -4,8 +4,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/dounetio/slog"
-	"github.com/dounetio/slog/bufwrite"
+	"github.com/doubox/slog"
+	"github.com/doubox/slog/bufwrite"
 )
 
 // NewBuffered create new BufferedHandler

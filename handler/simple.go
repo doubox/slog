@@ -3,7 +3,7 @@ package handler
 import (
 	"io"
 
-	"github.com/dounetio/slog"
+	"github.com/doubox/slog"
 )
 
 // SimpleHandler definition

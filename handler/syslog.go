@@ -6,7 +6,7 @@ package handler
 import (
 	"log/syslog"
 
-	"github.com/dounetio/slog"
+	"github.com/doubox/slog"
 )
 
 // SysLogHandler struct

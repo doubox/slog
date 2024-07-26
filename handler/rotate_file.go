@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"github.com/dounetio/slog"
-	"github.com/dounetio/slog/rotatefile"
+	"github.com/doubox/slog"
+	"github.com/doubox/slog/rotatefile"
 )
 
 // MustRotateFile handler instance

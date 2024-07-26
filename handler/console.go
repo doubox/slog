@@ -3,7 +3,7 @@ package handler
 import (
 	"os"
 
-	"github.com/dounetio/slog"
+	"github.com/doubox/slog"
 	"github.com/gookit/color"
 )
 

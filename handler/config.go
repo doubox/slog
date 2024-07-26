@@ -3,9 +3,9 @@ package handler
 import (
 	"io"
 
-	"github.com/dounetio/slog"
-	"github.com/dounetio/slog/bufwrite"
-	"github.com/dounetio/slog/rotatefile"
+	"github.com/doubox/slog"
+	"github.com/doubox/slog/bufwrite"
+	"github.com/doubox/slog/rotatefile"
 	"github.com/gookit/goutil/errorx"
 	"github.com/gookit/goutil/fsutil"
 )

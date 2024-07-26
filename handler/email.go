@@ -4,7 +4,7 @@ import (
 	"net/smtp"
 	"strconv"
 
-	"github.com/dounetio/slog"
+	"github.com/doubox/slog"
 )
 
 // EmailOption struct
