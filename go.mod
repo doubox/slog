@@ -1,4 +1,4 @@
-module github.com/dounetio/slog
+module github.com/doubox/slog
 
 go 1.18
 
